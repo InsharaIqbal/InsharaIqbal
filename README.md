@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @InsharaIqbal
-- 👀 I’m interested in progamming
 - 🌱 I’m currently learning SOFTWARE ENGINEERING
 - 💞️ I’m looking to collaborate on PYTHON,C++
 - 📫 How to reach me insharaiqbal93@gmail.com
